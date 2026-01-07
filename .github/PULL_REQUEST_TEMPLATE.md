@@ -1,30 +1,33 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
-## Description
+## 🔗 Linked Issue
+
+Fixes #
+
+## 📝 Description
 <!--- Describe your changes in detail -->
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+## 🛠 Type of Change
 
-## How Has This Been Tested?
+- [ ] 🚀 New Feature
+- [ ] 🐛 Bug Fix
+- [ ] 🔒 Security Patch
+- [ ] 🧹 Refactor / Tech Debt
+
+## ⚖️ Checklist
+
+- [ ] **No Secrets:** I have verified that no API keys, passwords, or PII are included in this code.
+- [ ] **Automated Tests:** If applicable to the code base, the CI/CD pipeline passed, or new tests have been added to cover these changes.
+- [ ] **External Documentation:** If the code changes client facing UI or workflows, those have been updated and distributed.
+- [ ] **Internal Documentation:** I have updated the internal documentation accordingly.
+
+## 🧪 How Has This Been Tested?
+
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to -->
 <!--- see how your change affects other areas of the code, etc. -->
 
-## Screenshots (if appropriate):
+## 📸 Screenshots / Logs (Optional)
 
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
-
-## Checklist:
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-- [ ] My code follows the code style of this project.
-- [ ] If the code changes client facing UI or workflows, those have been updated and distributed.
-- [ ] I have updated the internal documentation accordingly.
-
-## External Info:
+## External Info
 <!--- Link to any external documentation or relevant files that should be reviewed -->
